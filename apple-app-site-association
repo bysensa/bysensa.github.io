@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3T8PT3S5M8.com.cm-expert",
+        "paths": [
+          "/stock/*",
+          "/appraisals/*"
+        ]
+      }
+    ]
+  }
+}
